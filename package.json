@@ -1,0 +1,26 @@
+{
+  "name": "rest-api",
+  "version": "1.0.0",
+  "description": "RES API with Node.js | Mongodb | Mongoose | Express.js | Express malware ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Onyishi/REST-API-with-Node.js-Mongoose-Express.js-TypeScript.git"
+  },
+  "author": "Onyishi Chetachi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Onyishi/REST-API-with-Node.js-Mongoose-Express.js-TypeScript/issues"
+  },
+  "homepage": "https://github.com/Onyishi/REST-API-with-Node.js-Mongoose-Express.js-TypeScript#readme",
+  "dependencies": {
+    "config": "^3.3.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^6.0.5",
+    "yap": "0.0.2"
+  }
+}
